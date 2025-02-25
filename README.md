@@ -20,12 +20,14 @@ Ensure you have **Docker** and **Docker Compose** installed:
 
 To verify:
 docker -v
+
 docker-compose -v 
 
 
 ### **2️⃣ Clone the Repository**
 
 git clone https://github.com/your-username/logging-system.git
+
 cd logging-system
 
 ### **3️⃣Run Project**
@@ -34,7 +36,9 @@ docker-compose up --build
 ✅ This will:
 
 Start Loki on http://localhost:3100
+
 Start Grafana on http://localhost:3000
+
 Start Streamlit UI on http://localhost:8501
 
 To run in background:
