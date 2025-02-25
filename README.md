@@ -40,7 +40,7 @@ Start Streamlit UI on http://localhost:8501
 To run in background:
 docker-compose up -d
 
-### ** 4️⃣ Open Streamlit** ###
+### **4️⃣ Open Streamlit**
 Open: http://localhost:8501
 
 
