@@ -47,4 +47,11 @@ docker-compose up -d
 ### **4️⃣ Open Streamlit**
 Open: http://localhost:8501
 
+### 🔗 Access the Services  
+- **Loki** → [http://localhost:3100](http://localhost:3100)  
+- **Grafana** → [http://localhost:3000](http://localhost:3000)  
+  - **Login:** `admin` / `mysecurepassword`  
+- **Streamlit UI** → [http://localhost:8501](http://localhost:8501)  
+
+
 
