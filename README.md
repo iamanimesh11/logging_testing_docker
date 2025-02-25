@@ -26,8 +26,7 @@ docker-compose -v
 
 ### **2️⃣ Clone the Repository**
 
-git clone https://github.com/your-username/logging-system.git
-
+git clone https://github.com/iamanimesh11/logging_testing_docker.git
 cd logging-system
 
 ### **3️⃣Run Project**
