@@ -23,12 +23,12 @@ docker -v
 docker-compose -v 
 
 
-### **2 Clone the Repository**
+### **2️⃣ Clone the Repository**
 
 git clone https://github.com/your-username/logging-system.git
 cd logging-system
 
-### **3 Run Project**
+### **3️⃣Run Project**
 docker-compose up --build
 
 ✅ This will:
@@ -40,7 +40,7 @@ Start Streamlit UI on http://localhost:8501
 To run in background:
 docker-compose up -d
 
-### ** 4 Open Streamlit**
+### ** 4️⃣ Open Streamlit** ###
 Open: http://localhost:8501
 
 
